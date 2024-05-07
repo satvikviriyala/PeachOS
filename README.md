@@ -65,10 +65,15 @@ System Calls and Userland: User processes can interact with the kernel through s
 The project is currently in active development and has reached a stage where it supports basic multitasking, user programs, and file system operations.
 
 **Future plans include:**
+
 **Expanding File System Support:** Implementing support for additional file systems, such as ext2 or ext4.
+
 **Networking:** Adding networking capabilities to the kernel, allowing communication with other systems.
+
 **Device Drivers:** Developing drivers for additional hardware devices.
+
 **GUI Development:** Exploring the implementation of a graphical user interface.
+
 **Getting Involved:**
 This project is open-source and welcomes contributions from anyone interested in operating system development. Feel free to explore the code, submit issues, or propose improvements.
 This project represents my ongoing exploration of the fascinating world of operating systems and kernel development. It's a journey filled with challenges and learning experiences, and Iam excited to see where it leads.
