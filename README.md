@@ -36,6 +36,9 @@ target remote | qemu-system-i386 -hda ./os.bin -S -gdb stdio
 ```
 Add break point if any  
 ```c``` to continue, ```next``` for stepping instructions, ```print <var>``` for printing variables
+**Boot-Loader Screen**
+![WhatsApp Image 2024-05-07 at 07 47 00](https://github.com/satvikviriyala/PeachOS/assets/94317660/e91e90bc-137d-408a-a070-9f9791a3ee6b)
+
 
 Technical Details:
 **Bootloader:** The project starts with a custom bootloader written in assembly language. This bootloader's primary function is to switch the processor from real mode to protected mode, enabling access to the full 4GB address space and facilitating 32-bit operations.
