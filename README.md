@@ -36,6 +36,8 @@ target remote | qemu-system-i386 -hda ./os.bin -S -gdb stdio
 ```
 Add break point if any  
 ```c``` to continue, ```next``` for stepping instructions, ```print <var>``` for printing variables
+
+
 **Boot-Loader Screen**
 ![WhatsApp Image 2024-05-07 at 08 31 36](https://github.com/satvikviriyala/PeachOS/assets/94317660/8bdf140b-d093-4d30-bebd-d9465ff4f144)
 
