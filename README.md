@@ -1,4 +1,4 @@
-# PeachOS
+# System Governor
 A light weight Multithreaded Kernel based on x86_64 Architecture
 
 Written in C, Assembly 
